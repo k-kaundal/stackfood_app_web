@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "295949738095",
+    "project_id": "stackfood-4d9d4",
+    "storage_bucket": "stackfood-4d9d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295949738095:android:fbf8ad556daf21c81ead9a",
+        "android_client_info": {
+          "package_name": "com.sixamtech.stack_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295949738095-q6ev651vbg9s4pr0tjh4qupcacheup22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-nA5RFqMIQu4vmo0xQMkFAegChQ54gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295949738095-q6ev651vbg9s4pr0tjh4qupcacheup22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295949738095-hu5aijgjjta6mem4h6jr8n8t019327id.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.stackFood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
