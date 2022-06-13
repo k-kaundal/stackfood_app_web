@@ -6,7 +6,6 @@ class AppConstants {
   static const int APP_VERSION = 1;
   static const int SLOT_IN_MINUTE = 30;
   static const int DIGITS_AFTER_POINT = 2;
-
   static const String BASE_URL = 'https://stackfood.widgetshubs.com';
   static const String CATEGORY_URI = '/api/v1/categories';
   static const String BANNER_URI = '/api/v1/banners';
